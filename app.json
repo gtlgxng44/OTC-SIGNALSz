@@ -1,0 +1,1 @@
+{ "expo": { "name": "OTC Signals", "slug": "otc-signals", "version": "1.0.0", "orientation": "portrait", "icon": "./assets/icon.png", "splash": { "image": "./assets/splash.png", "resizeMode": "contain", "backgroundColor": "#000000" }, "updates": { "fallbackToCacheTimeout": 0 }, "assetBundlePatterns": [ "**/*" ], "android": { "package": "com.otcsignals.app", "versionCode": 1 } } }
